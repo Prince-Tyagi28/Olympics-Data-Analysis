@@ -18,9 +18,9 @@ Features: City, Year, Sport, Discipline, Event, Athlete, Gender, Country, Medal,
 🔠 Label Encoding — Encoded categorical variables for further machine learning if needed.
 
 📌 Tools & Libraries Used
-Python 🐍
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+Python 🐍,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Scikit-learn.
